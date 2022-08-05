@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+section{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  padding: 1rem;
+}
+
+article{
+  background-color: #293462;
+  color: white;
+  padding: 0.5rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

@@ -1,4 +1,3 @@
-# Getting Started redux
 /**
  * step1: install packages (npm i redux react-redux axios redux-thunk)
  * step2: constants define
